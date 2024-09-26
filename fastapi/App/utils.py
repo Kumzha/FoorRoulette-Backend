@@ -1,7 +1,6 @@
 from bolt_data import getBoltRestaurants
 from wolt_data import getWoltRestaurants
-import schemas, crud
-from sqlalchemy.orm import Session
+import schemas
 
 
 def formatBoltRating(rating: str) -> str:

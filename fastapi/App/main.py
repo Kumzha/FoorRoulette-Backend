@@ -1,9 +1,5 @@
-from fastapi import FastAPI, Depends, HTTPException
-from sqlalchemy.orm import Session
-import schemas, crud
-from fastapi.staticfiles import StaticFiles
-from fastapi.responses import HTMLResponse
-from starlette.requests import Request
+from fastapi import FastAPI
+import schemas
 from utils import getRestaurantList
 from fastapi.middleware.cors import CORSMiddleware
 
@@ -14,6 +10,7 @@ app = FastAPI()
 origins = [
     "http://localhost:3000",
     "http://localhost:3000/roulette",
+    "https://food-roulete.vercel.app/",
     # You can add more origins here
 ]
 
