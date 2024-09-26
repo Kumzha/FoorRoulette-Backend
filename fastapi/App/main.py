@@ -11,6 +11,8 @@ origins = [
     "http://localhost:3000",
     "http://localhost:3000/roulette",
     "https://food-roulete.vercel.app/",
+    "https://food-roulete.vercel.app/*",
+    "https://food-roulete.vercel.app/roulette",
     # You can add more origins here
 ]
 
