@@ -1,0 +1,26 @@
+{
+    "created": {
+        "$date": 1725712057063
+    },
+    "expires_in_seconds": 900,
+    "name": "restaurants",
+    "page_title": "Restaurants",
+    "sections": [
+        {
+            "description": "It\u2019s not you, it\u2019s us! We\u2019re working hard to expand and hope to come to your area soon \ud83d\ude0c",
+            "link": {
+                "target": "",
+                "target_sort": "delivers-to",
+                "target_title": "",
+                "title": "",
+                "type": "no-link"
+            },
+            "name": "no-content",
+            "template": "no-content",
+            "title": "There aren\u2019t any restaurants on Wolt near you yet \ud83d\ude15"
+        }
+    ],
+    "show_large_title": false,
+    "show_map": false,
+    "track_id": "discovery:restaurants"
+}

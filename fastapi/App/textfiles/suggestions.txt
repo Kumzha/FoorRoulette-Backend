@@ -1,0 +1,45 @@
+{
+    "code": 0,
+    "message": "OK",
+    "data": {
+        "suggestions": [
+            {
+                "source": "internal",
+                "analytics_type": "Internal Address",
+                "address_name": "Gatv\u0117 Naugarduko 3",
+                "address_extra": "Vilnius",
+                "address_details_level": "street_number",
+                "full_address": "Gatv\u0117 Naugarduko 3, Vilnius",
+                "lat": 54.677659,
+                "lng": 25.27727,
+                "place_id": "internal|openaddresses:address:lt/countrywide:7d9b4539d325bd72",
+                "image_identifier": "DEFAULT",
+                "place_type": "other",
+                "display_index": 0,
+                "meta": {
+                    "initial_selection_source": "internal"
+                }
+            },
+            {
+                "source": "internal",
+                "analytics_type": "Internal Address",
+                "address_name": "Gatv\u0117 Naugarduko 3",
+                "address_extra": "Alytus",
+                "address_details_level": "street_number",
+                "full_address": "Gatv\u0117 Naugarduko 3, Alytus",
+                "lat": 54.400432,
+                "lng": 24.087738,
+                "place_id": "internal|openaddresses:address:lt/countrywide:58f521514e4366b2",
+                "image_identifier": "DEFAULT",
+                "place_type": "other",
+                "display_index": 1,
+                "meta": {
+                    "initial_selection_source": "internal"
+                }
+            }
+        ],
+        "delivery_location_index": null,
+        "provider_image_url": "https://images.bolt.eu/store/2020/2020-02-07/d6efe36b-3d6b-4290-b687-bf2ac8378184.png",
+        "address_sensitivity_threshold_in_meters": 100
+    }
+}

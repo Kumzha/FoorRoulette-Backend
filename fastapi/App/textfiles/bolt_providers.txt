@@ -1,0 +1,10 @@
+{
+    "code": 0,
+    "message": "OK",
+    "data": {
+        "categories": [],
+        "providers": [],
+        "carousels": {},
+        "shouldDisplaySurgeMessage": null
+    }
+}
